@@ -1,7 +1,7 @@
 <H5> Name : Paul Andrew D </H5>
 <H5>Register No.: 212221230075 </H5>
 <H5> Experiment 4 </H5>
-<H5> DATE: 05.10.24</H5>
+<H5> DATE: </H5>
 
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
 
